@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/254/trunk/myQueueServer
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/174/trunk/myQueueServer/manifest.mf
+END
+Queues.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/253/trunk/myQueueServer/Queues.dat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/253/trunk/myQueueServer/build.xml
+END
+myqueue.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/246/trunk/myQueueServer/myqueue.cnf
+END
+UsersManager.dat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/253/trunk/myQueueServer/UsersManager.dat
+END

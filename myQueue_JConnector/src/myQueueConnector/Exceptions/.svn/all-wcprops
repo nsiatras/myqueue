@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/206/trunk/myQueue_JConnector/src/myQueueConnector/Exceptions
+END
+CommandTimeOutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/194/trunk/myQueue_JConnector/src/myQueueConnector/Exceptions/CommandTimeOutException.java
+END
+QueueAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/205/trunk/myQueue_JConnector/src/myQueueConnector/Exceptions/QueueAlreadyExistsException.java
+END
+QueueDoesNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/206/trunk/myQueue_JConnector/src/myQueueConnector/Exceptions/QueueDoesNotExistException.java
+END

@@ -1,0 +1,89 @@
+10
+
+dir
+254
+http://myqueue.googlecode.com/svn/trunk/myQueueServer/src/myqueueserver
+http://myqueue.googlecode.com/svn
+
+
+
+2013-12-03T17:39:04.566792Z
+254
+nsiatras@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8aa3d242-df54-0410-a516-3d5b7e73011a
+
+Serialization
+dir
+
+File
+dir
+
+Authentication
+dir
+
+Log
+dir
+
+Users
+dir
+
+myQueueServer.java
+file
+
+
+
+
+2016-03-22T02:02:06.341655Z
+659a80af145178b5aa00da4dd6f265c6
+2012-05-02T21:21:51.113526Z
+217
+nsiatras@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1266
+
+Queue
+dir
+
+Config
+dir
+
+MachineStatus
+dir
+
+Network
+dir
+
